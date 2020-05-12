@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="761px" height="681px" viewBox="0 0 761 681" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>img-bg-graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="79.8972232%" y1="97.8532385%" x2="36.5290654%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#006B42" offset="0%"></stop>
+            <stop stop-color="#37A74F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LD_v4-Copy" transform="translate(-679.000000, 0.000000)">
+            <g id="img-bg-graphic" transform="translate(587.000000, -581.000000)">
+                <path d="M738.093432,1199.93974 C962.556438,1233.93751 1305,978.706242 1305,730.470525 C1305,482.234809 1042.90592,281 719.59648,281 C396.287044,281 -34.5255179,630.97705 220.055667,854.962361 C474.636852,1078.94767 513.630426,1165.94197 738.093432,1199.93974 Z" id="oval-2" fill="#F8F6F6" transform="translate(724.000000, 742.000000) rotate(51.000000) translate(-724.000000, -742.000000) "></path>
+                <path d="M687.093432,1167.93974 C911.556438,1201.93751 1254,946.706242 1254,698.470525 C1254,450.234809 991.905917,249 668.59648,249 C345.287044,249 -85.5255179,598.97705 169.055667,822.962361 C423.636852,1046.94767 462.630426,1133.94197 687.093432,1167.93974 Z" id="oval-1" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
