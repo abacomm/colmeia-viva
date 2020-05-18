@@ -100,16 +100,15 @@ h4 {
     text-decoration: none;
     transition: all .25s ease;
     transform-origin: 0%;
+    position: relative;
 }
 
 .menu-item a:hover {
     color: #1D8A48;
-    /* letter-spacing: .5px; */
 }
 
 .menu {
     margin-top: 1.5rem;
-    /* justify-content: center; */
 }
 
 .menu-item:last-child {
@@ -187,6 +186,7 @@ nav {
     .menu-item {
         margin-top: 0;
     }
+    
 }
 
 @media only screen and (min-width: 768px) {
@@ -200,7 +200,7 @@ nav {
     .btn-outline {
         min-width: 11rem;
         margin-top: 0;
-    }    
+    }
 }
 
 @media only screen and (min-width: 991px) {
